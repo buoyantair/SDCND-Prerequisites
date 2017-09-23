@@ -72,7 +72,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - ### Python
 
 - [ ] Adequate Python Knowledge
-    - [ ] [Udacity - Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+    - [x] [Udacity - Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
     - [ ] [edX & Microsoft - Introduction to Python for Data Science DAT208x](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+6T2016/)
     - [ ] [Coursera - Python For Everybody](https://www.coursera.org/learn/python)
     - [ ] [SoloLearn Learn Python](https://www.sololearn.com/Course/Python/)
@@ -117,7 +117,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - ### Machine Learning
 
 - [ ] Adequate Machine Learning Knowledge
-    - [ ] [Udacity - Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
+    - [x] [Udacity - Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
     - [ ] [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
     - [ ] [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
 
